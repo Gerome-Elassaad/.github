@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-Gerome%20El--Assaad-blue?logo=linkedin" alt="LinkedIn">
   </a>
 <a href="Email">
-  <img src="https://img.shields.io/badge/Email-contact%40elitesimsports.com.au-D14836?logo=gmail&logoColor=white" alt="Email">
+  <img src="https://img.shields.io/badge/Email-contact%40repo-booster.com-D14836?logo=gmail&logoColor=white" alt="Email">
 </a>
 </p>
 
