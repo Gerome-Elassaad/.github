@@ -8,7 +8,8 @@
     <img src="https://img.shields.io/badge/LinkedIn-Gerome%20El--Assaad-blue?logo=linkedin" alt="LinkedIn">
   </a>
 <a href="Email">
-  <img src="https://img.shields.io/badge/Email-contact%40repo-booster.com-D14836?logo=gmail&logoColor=white" alt="Email">
+<a href="mailto:contact@repo-booster.com">
+    <img src="https://img.shields.io/badge/Email-contact%40repo--booster.com-D14836?logo=gmail&logoColor=white" alt="Email Badge" style="border: 0;">
 </a>
 </p>
 
@@ -18,7 +19,7 @@
 
 I'm a passionate **software developer** and **AI enthusiast** with a focus on building innovative tools that enhance productivity and collaboration. My projects range from **open-source solutions** to **enterprise-level applications**, and I'm committed to improving workflows and making complex tasks simpler for developers and organizations.
 
-- 🌐 **Founder of [Repo Booster](https://github.com/repo-booster/repo-booster-development):** An AI-powered tool designed to optimize GitHub management, improve repository visibility, and streamline collaboration.
+- 🌐 **Founder of [Repo Booster](https://github.com/repo-booster/open-source-v1.0):** An AI-powered tool designed to optimize GitHub management, improve repository visibility, and streamline collaboration.
 - 💻 **Tech Stack:** JavaScript, Node.js, React.js, Python, MongoDB, Docker, and more.
 - 🔍 **Interests:** AI in DevOps, GitHub automation, open-source development, and enhancing developer productivity.
 - 🎯 **Goal:** Empower developers to achieve more with less effort through smart, automated tools.
@@ -49,6 +50,7 @@ I'm always open to collaboration, new ideas, and interesting projects. Whether y
 - 💼 **LinkedIn:** [Gerome El-Assaad](https://www.linkedin.com/in/gerome-elassaad/)
 - 📧 **Work Email:** [Work Email](mailto:contact@repo-booster.com)
 - 📧 **Personal Email:** [Personal Email](mailto:repo-booster@proton.me)
+- 🌐 **Website:** [Click me](https://repo-booster.com)
 
 ---
 
